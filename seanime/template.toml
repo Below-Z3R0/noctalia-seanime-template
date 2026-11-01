@@ -1,6 +1,6 @@
 [catalog.seanime]
 name     = "Seanime"
-category = "media"
+category = "misc"
 
 [templates.seanime]
 input_path  = "palette.css"
